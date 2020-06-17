@@ -2,6 +2,8 @@
 
 Experimental plugin to run Go2 in Vim
 
+NOTE) I don't have plan to make plugin for Go2.
+
 ## Usage
 
 ```
